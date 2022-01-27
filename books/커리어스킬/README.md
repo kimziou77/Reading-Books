@@ -4,7 +4,7 @@
 
 |커리어스킬|
 |---|
-|<img src="http://image.yes24.com/momo/TopCate878/MidCate006/66449912.jpg" width="150" height="200"/>|
+|<img src="http://image.yes24.com/goods/71829578/XL" width="150" height="200"/>|
 
 ### 책에서 배운 점
 ..
