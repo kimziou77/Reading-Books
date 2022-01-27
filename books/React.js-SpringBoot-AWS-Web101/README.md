@@ -7,7 +7,6 @@
 |<img src="http://acornpub.co.kr/tb/detail/book/jk/xl/1631812874ufeGIBYD.jpg" width="150" height="200"/>|
 
 
-
 ### 책에서 배운 점
 ..
 
