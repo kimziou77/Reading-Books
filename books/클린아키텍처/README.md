@@ -6,8 +6,3 @@
 |---|
 |<img src="http://image.yes24.com/goods/77283734/XL" width="150" height="200"/>|
 
-### 책에서 배운 점
-..
-
-### 앞으로
-..
