@@ -14,8 +14,8 @@
 |---|
 |<img src="http://acornpub.co.kr/tb/detail/book/jk/xl/1631812874ufeGIBYD.jpg" width="150" height="200"/>|
 
-### 구현프로젝트 보러가기!
-[MY-REPOSITORY](https://github.com/kimziou77/web101)
+### [구현프로젝트 보러가기!](https://github.com/kimziou77/web101)
+<br>
 
 ### 책에서 배운 점
 책의 내용을 전부 구현했다.  
