@@ -12,4 +12,8 @@
 |---|---|
 |<img src="http://image.yes24.com/goods/15381085/XL" width="150" height="200"/>|01 웹기초<br>02 아키텍처<br>03 식별.인가.보안<br>04 엔티티.인코딩.국제화<br>05 콘텐츠 발행 및 배포<br>06 부록|
 
+<<<<<<< HEAD
 ### [책 스터디 Repository](https://github.com/kimziou77/HTTP-The-Definitive-Guide)
+=======
+### [책 스터디 Repository](https://github.com/kimziou77/HTTP-The-Definitive-Guide)
+>>>>>>> e063add930ff5ec6427a90a2989928ca2e5ccfad
