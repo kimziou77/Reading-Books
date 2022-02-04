@@ -4,5 +4,5 @@
 
 |클린아키텍처|
 |---|
-|<img src="http://image.yes24.com/goods/77283734/XL" width="150" height="200"/>|
+|<img src="https://raw.githubusercontent.com/kimziou77/Reading-Books/main/images/클린아키텍쳐.jpg" width="150" height="200"/>|
 
