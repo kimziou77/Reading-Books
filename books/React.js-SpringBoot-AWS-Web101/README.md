@@ -12,7 +12,7 @@
 
 |...웹개발101|
 |---|
-|<img src="http://acornpub.co.kr/tb/detail/book/jk/xl/1631812874ufeGIBYD.jpg" width="150" height="200"/>|
+|<img src="https://github.com/kimziou77/Reading-Books/tree/main/images/클린아키텍쳐.jpg" width="150" height="200"/>|
 
 ### [구현프로젝트 보러가기!](https://github.com/kimziou77/web101)
 <br>
