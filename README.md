@@ -8,13 +8,14 @@
 - 🎉 [소프트스킬](https://github.com/kimziou77/Reading-Books/tree/main/books/소프트스킬)
 - 🎉 [소프트웨어장인](https://github.com/kimziou77/Reading-Books/tree/main/books/소프트웨어장인)
 - 🎉 [HTTP완벽가이드](https://github.com/kimziou77/Reading-Books/tree/main/books/http완벽가이드)
-- 🔥 [실전 자바 소프트웨어 개발](https://github.com/kimziou77/Reading-Books/tree/main/books/실전-자바소프트웨어개발)
-- 🔥 [이펙티브 자바]()
-- 🔖 [테스트주도개발 시작하기]()
-- 🔖 [클린아키텍쳐](https://github.com/kimziou77/Reading-Books/tree/main/books/클린아키텍쳐)
-- 🔖 [클린코드]()
+- 🔥 [이펙티브 자바](https://github.com/prgrms-web-devcourse/BE-Team-preAmand-Effective-Java)
+- 🔥 객체지향사실과오해
+- 🔖 테스트주도개발 시작하기
+- 🔖 클린아키텍쳐
+- 🔖 클린코드
+- 💬 [실전 자바 소프트웨어 개발](https://github.com/kimziou77/Reading-Books/tree/main/books/실전-자바소프트웨어개발)
 - 💬 [커리어스킬](https://github.com/kimziou77/Reading-Books/tree/main/books/커리어스킬)
-- 💬 [심플 소프트웨어]()
+- 💬 심플 소프트웨어
 
 |🎉|🔥|💬|🔖|🔒|
 |---|---|---|---|---|
