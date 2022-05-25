@@ -10,6 +10,7 @@
 - 🎉 [HTTP완벽가이드](https://github.com/kimziou77/Reading-Books/tree/main/books/http완벽가이드)
 - 🔥 [이펙티브 자바](https://github.com/prgrms-web-devcourse/BE-Team-preAmand-Effective-Java)
 - 🔥 [객체지향사실과오해](https://github.com/dya-mond/Book-Study)
+- 🔥 쉽게 배우는 운영체제
 - 🔖 테스트주도개발 시작하기
 - 🔖 클린아키텍쳐
 - 🔖 클린코드
