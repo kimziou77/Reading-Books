@@ -9,7 +9,8 @@
 - 🎉 [소프트웨어장인](https://github.com/kimziou77/Reading-Books/tree/main/books/소프트웨어장인)
 - 🎉 [HTTP완벽가이드](https://github.com/kimziou77/Reading-Books/tree/main/books/http완벽가이드)
 - 🎉 [객체지향사실과오해](https://github.com/dya-mond/Book-Study)
-- 🔥 [이펙티브 자바](https://github.com/prgrms-web-devcourse/BE-Team-preAmand-Effective-Java/issues?q=is%3Aissue+is%3Aclosed)
+- 🎉 [이펙티브 자바](https://github.com/prgrms-web-devcourse/BE-Team-preAmand-Effective-Java/issues?q=is%3Aissue+is%3Aclosed)
+- 🔥 도메인 주도 설계 핵심
 - 🔥 쉽게 배우는 운영체제
 - 🔥 클린아키텍쳐
 - 🔖 테스트주도개발 시작하기
