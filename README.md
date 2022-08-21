@@ -10,11 +10,11 @@
 - 🎉 [HTTP완벽가이드](https://github.com/kimziou77/Reading-Books/tree/main/books/http완벽가이드)
 - 🎉 [객체지향사실과오해](https://github.com/dya-mond/Book-Study)
 - 🎉 [이펙티브 자바](https://github.com/prgrms-web-devcourse/BE-Team-preAmand-Effective-Java/issues?q=is%3Aissue+is%3Aclosed)
-- 🔥 [도메인 주도 설계 핵심](https://github.com/prgrms-web-devcourse/BE-Team-preAmand-Effective-Java/issues?q=is%3Aissue+is%3Aclosed)
+- 🎉 [도메인 주도 설계 핵심](https://github.com/prgrms-web-devcourse/BE-Team-preAmand-Effective-Java/issues?q=is%3Aissue+is%3Aclosed)
+- 🔥 클린코드
 - 🔥 쉽게 배우는 운영체제
 - 🔥 클린아키텍쳐
 - 🔖 테스트주도개발 시작하기
-- 🔖 클린코드
 - 💬 [실전 자바 소프트웨어 개발](https://github.com/kimziou77/Reading-Books/tree/main/books/실전-자바소프트웨어개발)
 - 💬 [커리어스킬](https://github.com/kimziou77/Reading-Books/tree/main/books/커리어스킬)
 - 💬 심플 소프트웨어
